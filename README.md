@@ -23,14 +23,28 @@ I made this project to make basic student result mmanagement easier and to pract
 - Handles invalid marks and inavlid menu choices.
 - Works completely through the terminal.
 
+## Subjects
+
+The project currently contains four Semester 1 subjects:
+
+- Calculus
+- Python
+- English
+- EVS
+
+Each subject is marked out of 100.
+
 ## Technologies Used
 
 - Python 3
+- Python functions
 - Python modules
 - Dictionaries
-- Functions
+- Loops and conditional statements
 - Expection handling
-- Command-line interface
+- Git and GitHub for version control
+
+No external Python libraries are required. 
 
 ## Project Structure
 
