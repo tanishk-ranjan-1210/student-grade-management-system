@@ -67,3 +67,24 @@ Open the project folder in a terminal and run:
 '''bash
 pytho main.py
 
+## Limitations
+- The program works only in the terminal.
+- Student data is stored only while the program is running.
+- Data is lost when the program is closed.
+- The project currently supports only four Semester 1 subjects.
+- There is no database for permanent data storage.
+- There is no graphical user interface.
+- The current version does not include user login or authentication.
+
+## Future Improvements
+
+- Add permanent student data storage using a database or file.
+- Add options to update and delete student records.
+- Add support for multiple semesters.
+- Add more detailed class and subject-wise analytics.
+- Add a simple graphical user interface.
+- Generate student report cards as PDF files.
+- Add user login and authentication.
+- Add data export to CSV or Excel.
+
+### Written by Tanishk Ranjan.
