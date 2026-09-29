@@ -2,17 +2,26 @@
 
 ## Project Overview
 
-A Python-Based command-line application for managing student marks, calculating grades, generating report cards, and viewing class analytics.
+This is a Python project made to manage student marks and calculate their grades.It allows the user to add students, enter their Semester 1 marks, calculate their total and percentage, and generates a report card.
+
+The project also shows basic class analytics such as the average percentage and the top scorer.
+
+I made this project to make basic student result mmanagement easier and to practice Python concept like functions, dictionaries, modules, loops, conditions, and input validation.
 
 ## Features
 
-- Add students
-- Enter subject marks
-- Validate marks
-- Calculate total and percentage
-- Calculate grade
-- Generate report cards
-- View class analytics
+- Add a new student using roll number and name.
+- Checks if the roll number already exists.
+- Takes marks for Semester 1 subjects.
+- Checks that marks are between 0 and 100.
+- Calculates total marks.
+- Calculates percentage.
+- Assigns a final grade.
+- Generates a Semester 1 report card.
+- Shows class average percentage.
+- Shows the top scorer.
+- Handles invalid marks and inavlid menu choices.
+- Works completely through the terminal.
 
 ## Technologies Used
 
